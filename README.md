@@ -1,9 +1,22 @@
-# student-performance-analyzer
+# Student performance analyzer
 Backend+ Ml project 
 
-Objectives:-
-1. Work more with SQL and data
-2. Get comforatble with SpringBoot
-3. Learn more about APIs
-4. Learn about data analytics
-4. Eventually build a ml model 👀
+## Objectives
+- Work more with SQL and structured data
+- Get comfortable with Spring Boot
+- Learn how APIs work (REST)
+- Explore basic data analytics on student data
+- Eventually build and integrate a machine learning model 👀
+
+## Tech Stack
+- **Backend:** Java, Spring Boot  
+- **Database:** MySQL  
+- **Version Control:** Git, GitHub  
+- **Data & ML (planned):** Python, scikit-learn
+
+## About the Project
+This project is built to learn backend development and data handling by working on a real-world inspired problem: analyzing student performance.
+
+It focuses on storing student data, creating APIs to access and manage this data, and performing simple data analysis. In later stages, the project aims to explore machine learning to predict and analyze student performance trends.
+
+
