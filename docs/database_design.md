@@ -27,3 +27,13 @@ Future tables (later):
 - exams
 - subjects
 
+
+## Constraints & Assumptions
+
+- student_id is the primary identifier for each student
+- student_id should be unique
+- name cannot be null
+- marks range: 0–100
+- attendance_percentage range: 0–100
+- one row represents one student for a given academic period
+
