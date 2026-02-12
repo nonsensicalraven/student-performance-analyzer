@@ -37,3 +37,6 @@ Future tables (later):
 - attendance_percentage range: 0–100
 - one row represents one student for a given academic period
 
+## updates
+- created students table on mysql!
+
