@@ -39,4 +39,5 @@ Future tables (later):
 
 ## updates
 - created students table on mysql!
+- added 2 students to my table, little stuff
 
